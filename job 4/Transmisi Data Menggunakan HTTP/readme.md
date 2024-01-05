@@ -26,12 +26,12 @@
 
 <p>Output Serial monitor</p>
 
-![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/4.%20Serial%20Monitor%20Setelah%20Berhasil%20Terhubung.jpeg?raw=true)
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/2.%20Output%20serial%20monitor%20metode%20get.jpeg?raw=true)
 
 <p>Dashboard Node-Red </p>
 
-![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/3.%20serial%20monitor%20setelah%20memasukan%20ssid%20dan%20pass.jpeg?raw=true)
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/4.%20Dashboard%20Node-RED%20get.jpeg?raw=true)
 
 <p>Debug Node-Red</p>
 
-![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/3.%20serial%20monitor%20setelah%20memasukan%20ssid%20dan%20pass.jpeg?raw=true)
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/3.%20Debug%20Node-RED%20get.jpeg?raw=true)
