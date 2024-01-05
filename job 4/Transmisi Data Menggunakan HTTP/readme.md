@@ -5,19 +5,33 @@
 <p>3. Node-Red</p>
 <br></br>
 <h1>Metode GET</h1>
-<b><p>Source Code</p></b>
+<p>Source Code</p>
 
-![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/Penjelasan%20Kode.jpeg?raw=true)
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/Penjelasan%20Kode%20metode%20GET.jpeg?raw=true)
 
-<b><p>Flow Chart</p></b>
 
-![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/Flow%20Chart.png?raw=true)
+<p>Flow Chart</p>
 
-<b><p>Hasil dan Pembahasan</p></b>
-<p>Serial monitor setelah berhasil terhubung</p>
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/1.%20Flow%20Chart%20program%20ESP32%20metode%20GET.png?raw=true)
+
+<p>Flow Chart Program</p>
+
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/Flow%20Program%20get.jpeg?raw=true)
+
+
+<p>Tabel Database MySQL </p>
+
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/5.%20Tabel%20database%20MySQL%20get.jpeg?raw=true)
+
+
+<p>Output Serial monitor</p>
 
 ![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/4.%20Serial%20Monitor%20Setelah%20Berhasil%20Terhubung.jpeg?raw=true)
 
-<p>Serial monitor setelah memasukan SSID dan password </p>
+<p>Dashboard Node-Red </p>
+
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/3.%20serial%20monitor%20setelah%20memasukan%20ssid%20dan%20pass.jpeg?raw=true)
+
+<p>Debug Node-Red</p>
 
 ![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/3.%20serial%20monitor%20setelah%20memasukan%20ssid%20dan%20pass.jpeg?raw=true)
