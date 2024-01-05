@@ -19,6 +19,4 @@
 <p style="font-family:courier;" align="justify">2. <a href = "https://github.com/noviamel/sistem-embedded/tree/main/job%204/Transmisi%20Data%20Menggunakan%20HTTP"> Transmisi Data Menggunakan Protokol HTTP</a></p>
 <p style="font-family:courier;" align="justify">3. <a href = "https://github.com/noviamel/sistem-embedded/tree/main/job%204/C.%20Transmisi%20Data%20Menggunakan%20MQTT"> Transmisi Data Menggunakan Protokol MQTT</a></p>
 <p style="font-family:courier;" align="justify">4. <a href = "https://github.com/noviamel/sistem-embedded/tree/main/job%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT"> Akuisi Data dan Kendali Perangkat IoT Menggunakan Protokol MQTT</a></p>
-<b><p align="left">ALAT DAN BAHAN</p></b>
-<p style="font-family:courier;" align="justify">1. ESP 32</p>
-<p style="font-family:courier;" align="justify">2. Aplikasi Arduino IDE</p>
+
