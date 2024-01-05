@@ -4,3 +4,11 @@
 <p>2. Aplikasi Arduino IDE</p>
 <br></br>
 <b><p>Source Code</p></b>
+
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/Penjelasan%20Kode.jpeg?raw=true)
+
+<b><p>Flow Chart</p></b>
+
+![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/Flow%20Chart.png?raw=true)
+
+<b><p>Hasil dan Pembahasan</p></b>
