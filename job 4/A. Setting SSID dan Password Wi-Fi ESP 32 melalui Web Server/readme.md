@@ -19,3 +19,6 @@
 <p>Serial monitor setelah memasukan SSID dan password </p>
 
 ![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/3.%20serial%20monitor%20setelah%20memasukan%20ssid%20dan%20pass.jpeg?raw=true)
+
+<b><p>Analisa</p></b>
+<p>Perintah yang diberikan berfungsi untuk mengaktifkan hotspot WiFi dengan nama "my-hotspot" dan kata sandi "my-password". Hotspot WiFi ini dapat diakses oleh perangkat lain yang berada di sekitar komputer. Beberapa hotspot WiFi yang terdeteksi di sekitar komputer meliputi: KENTUNGERS, Warung BNR, Redmi, My family, Griya Titi, Aisyah, Bocill, ulistyo-5G. Implementasi kode program ini menggunakan kelas WiFi dan HTTPClient untuk melakukan pengaturan dan mengirim permintaan HTTP. Kelas WiFi digunakan untuk menghubungkan perangkat ke jaringan WiFi, sedangkan kelas HTTPClient digunakan untuk mengirimkan permintaan HTTP ke server.</p>
