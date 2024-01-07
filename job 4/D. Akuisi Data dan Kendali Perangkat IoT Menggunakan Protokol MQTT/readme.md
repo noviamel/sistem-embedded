@@ -47,7 +47,7 @@
 
   <p>Widget On/Off Adafruit</p>
 
-   ![alt text](https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/2.%20Dokumentasi.mp4?raw=true)
+   ![alt text](https://github.com/noviamel/sistem-embedded/blob/main/gif.gif?raw=true)
    
 <b><p>Analisa</p></b>
 <p>Kode ini mengimpor sejumlah pustaka yang diperlukan, termasuk pustaka WiFi dan pustaka MQTT dari Adafruit. Fungsinya adalah sebagai implementasi untuk menyambungkan perangkat ESP8266 dengan protokol MQTT (Message Queuing Telemetry Transport) ke server Adafruit IO. Program juga mengurus penanganan pesan yang diterima dari topik MQTT 'led'. Jika pesan yang diterima merupakan "1", maka pin keluaran akan diaktifkan (HIGH); sebaliknya, jika tidak sesuai dengan "1", pin keluaran akan dimatikan (LOW). Dilakukan pemeriksaan untuk memastikan bahwa koneksi ke server MQTT telah terbentuk. Jika belum, program akan mencoba melakukan koneksi ulang dengan interval 5 detik pada setiap upaya.</p>
