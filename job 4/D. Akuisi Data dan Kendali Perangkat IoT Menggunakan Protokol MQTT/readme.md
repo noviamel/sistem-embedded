@@ -33,7 +33,7 @@
 
 <p>Dashboard Node-RED</p>
 
- <img src="https://github.com/brianrahma/system-embedded/blob/master/jobsheet%204/D.%20Akuisi%20Data%20dan%20Kendali%20Perangkat%20IoT%20Menggunakan%20Protokol%20MQTT/dashboard1.png" width="700">
+ <img src="https://github.com/noviamel/sistem-embedded/blob/main/job%204/media/dashboard%20d.png" width="700">
 
 <b><p>Hasil Percobaan Kontrol Nyala LED melalui Dashboar Adafruit  </p></b>
 
